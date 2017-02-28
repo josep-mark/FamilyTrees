@@ -1,0 +1,9 @@
+Tytos, Tywin
+Tywin, Jaime
+Tywin, Cersei
+Tywin, Tyrion
+Cersei, Joffrey
+Cersei, Myrcella
+Cersei, Tommen
+Tytos, Kevan
+Kevan, Lancel
